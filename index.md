@@ -6,7 +6,8 @@ Center](https://pennbrain.upenn.edu) cluster computing documentation.
 The BSC computing cluster is hosted by DART (formerly PMACS) in their "Limited
 Performance Computing" (LPC) environment. 
 
-1. TOC {:toc}
+1. TOC 
+{:toc}
 
 # LPC overview
 
