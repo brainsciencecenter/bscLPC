@@ -28,7 +28,7 @@ How to get an LPC account.
 
 ## LPC vs CFN cluster usage
 
-Main article: [/docs/clusterEnvironment/cfnToLSF](LSF for CFN users)
+Main article: [LSF for CFN users](/docs/clusterEnvironment/cfnToLSF)
 
 The LPC cluster uses the IBM LSF system for parallel computing, while the CFN
 cluster used the Sun Grid Engine. While many of the same concepts apply, there
