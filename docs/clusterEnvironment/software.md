@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cluster Software
+title: Cluster software
 parent: Cluster Environment
 has_toc: true
 ---

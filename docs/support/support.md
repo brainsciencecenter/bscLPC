@@ -22,4 +22,4 @@ nav_order: 3
 
 ## Password reset
 
-## Opening a ticker
+## Opening a ticket

@@ -2,10 +2,10 @@
 layout: default
 title: Administration
 has_children: false
-nav_order: 3
+nav_order: 4
 has_toc: true
 ---
-# Cluster administratoin and billing
+# Cluster administration and billing
 {: .no_toc }
 
 ## Table of contents

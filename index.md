@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BSC computing documentation
+title: Welcome
 nav_order: 1
 description: "Home"
 permalink: /

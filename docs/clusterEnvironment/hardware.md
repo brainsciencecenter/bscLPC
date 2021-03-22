@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cluster Hardware
+title: Cluster hardware
 parent: Cluster Environment
 has_toc: true
 ---
