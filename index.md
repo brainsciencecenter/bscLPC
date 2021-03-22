@@ -1,3 +1,11 @@
+---
+layout: default
+title: BSC computing documentation
+nav_order: 1
+description: "Home"
+permalink: /
+---
+
 # Penn Brain Science Center Cluster Computing Resources
 
 This is the index page for the [Penn Brain Science
@@ -14,16 +22,24 @@ Performance Computing" (LPC) environment.
 The LPC is a shared resource for cluster computing, supported by DART and the
 BSC. It replaces the CFN cluster. 
 
-## LPC vs the CFN cluster
+## LPC accounts
 
+How to get an LPC account.
 
-## Access to the LPC
+## LPC vs CFN cluster usage
 
+Main article: [/docs/clusterEnvironment/cfnToLSF](LSF for CFN users)
+
+The LPC cluster uses the IBM LSF system for parallel computing, while the CFN
+cluster used the Sun Grid Engine. While many of the same concepts apply, there
+are several differences in how jobs are submitted and run. 
 
 # External resources
 
-## PMACS Documentation
+## PMACS Documentation (requires Pennkey authentication)
+
 [LSF Basics](https://wiki.pmacs.upenn.edu/public/LSF_Basics) 
+
 
 ## IBM LSF Documentation
 

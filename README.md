@@ -1,3 +1,13 @@
+# BSC LPC Documentation
+
+This repo hosts the code for the BSC LPC documentation.
+
+The site code and theme is based on [Just The
+Docs](https://github.com/pmarsceill/just-the-docs) v0.3.3 (tag 0.3.3 from
+Github, but code seems to reference 0.3.2).
+
+Information below is a quick guide to writing doc pages in Markdown.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brainsciencecenter/bscLPC/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
