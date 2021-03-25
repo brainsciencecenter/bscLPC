@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cluster software
+title: Software
 parent: Cluster Environment
 has_toc: true
 ---
@@ -17,4 +17,10 @@ has_toc: true
 ## Operating System
 
 ## Software modules
+
+## Paid licences
+
+### Matlab
+
+### RStudio Server
 

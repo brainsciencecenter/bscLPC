@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Cluster hardware
+title: Hardware and storage
 parent: Cluster Environment
 has_toc: true
 ---
 
-# Cluster compute and storage hardware
+# Cluster computing and data storage
 {: .no_toc }
 
 ## Table of contents
