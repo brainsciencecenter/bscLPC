@@ -16,5 +16,19 @@ has_toc: true
 
 ## Login nodes
 
+You can ssh directly to 
+
+```
+scisub.pmacs.upenn.edu
+```
+
+For example:
+
+```
+ssh -XY holder@scisub.pmacs.upenn.edu
+```
+
+will enable X11 forwarding and log me into to scisub.
+
 ## X11 forwarding
 
