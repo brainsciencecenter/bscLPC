@@ -62,6 +62,9 @@ The LPC cluster uses the IBM LSF system for parallel computing, while the CFN
 cluster used the Sun Grid Engine. While many of the same concepts apply, there
 are several differences in how jobs are submitted and run. 
 
+## LPC Access
+
+BSC LPC [Access](/docs/clusterEnvironment/access.md)
 
 # External resources
 
