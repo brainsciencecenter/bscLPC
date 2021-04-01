@@ -25,7 +25,12 @@ Conversion](https://www.med.upenn.edu/hpc/sge-to-lsf-conversion.html).
 
 ## CFN cluster specifics
 
-Some common qsub options used on chead, and their equivalents.
+| SGE | LSF | Notes |
++-----+-----+-------+
+| qstat | bqueues | List available queues |
+| qrun | bsub | Submit jobs |
+| qstat | bjobinfo | get job info |
+
 
 ## Generic job submission script
 
