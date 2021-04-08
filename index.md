@@ -36,6 +36,10 @@ compared to the previous CFN cluster. Like the old CFN cluster, the LPC is a
 Linux computing environment with multiple compute nodes, a grid engine job
 scheduler, and backed-up network storage. 
 
+## Access
+
+Please see the article on [accessing the PMACS cluster](/docs/clusterEnvironment/access.md) about how to access the BSC PMACS cluster.
+
 ## Security and privacy
 
 All data on the cluster should be de-identified. Contact PMACS if you have
@@ -62,6 +66,9 @@ The LPC cluster uses the IBM LSF system for parallel computing, while the CFN
 cluster used the Sun Grid Engine. While many of the same concepts apply, there
 are several differences in how jobs are submitted and run. 
 
+## LPC Access
+
+BSC LPC [Access](/docs/clusterEnvironment/access.md)
 
 # External resources
 
