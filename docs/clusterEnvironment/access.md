@@ -46,6 +46,15 @@ $ QUEUE=bsc ibash
 ```
 for normal shell access.
 
+The default queue is set in your `~/.bash_profile`.  You can change it at any time.
+
+You may also specify a particulare host or set of hosts with:
+
+```
+bsub -Is -q bsc_interactive -m "bsc04 bsc05" bash
+```
+to restrict a new shell to bsc04 or bsc05
+
 ## X11 forwarding
 
 Use *xbash* to tunnel X connections
