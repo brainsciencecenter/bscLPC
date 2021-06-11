@@ -9,11 +9,23 @@ has_toc: true
 {: .no_toc }
 
 The BSC LPC is behind the PSOM fire wall.
+
 *ssh* access is supported through *scisub.pmacs.upenn.edu*.
 
 ```bash
 ssh -XY holder@sciscub.pmacs.upenn.edu
 ```
+
+Use *transfer.pmacs.upenn.edu* to scp files to and from the BSC PMACS cluser.
+
+```bash
+sshfs holder@tranfer.pmacs.upenn.edu ~/mnt
+```
+
+*scisub.pmacs.upenn.edu* does not allow scp, or sftp access.
+
+Use *sciget.pmacs.upenn.edu* to pull/push data from websites, github.
+*scisub*, *transfer*, and the *bsclpc* compute nodes block outside access.
 
 
 ## Table of contents
