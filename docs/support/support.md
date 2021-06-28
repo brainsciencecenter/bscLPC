@@ -32,6 +32,10 @@ ibash or xbash.
 
 ## Password reset
 
+You can reset your PMACS password at
+
+https://reset.pmacs.upenn.edu/showLogin.cc
+
 ## Opening a ticket
 
 ## Additional computing resources
