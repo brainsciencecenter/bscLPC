@@ -36,6 +36,10 @@ compared to the previous CFN cluster. Like the old CFN cluster, the LPC is a
 Linux computing environment with multiple compute nodes, a grid engine job
 scheduler, and backed-up network storage. 
 
+Brain Science Center (BSC) Computing Cluster. The BSC manages a dedicated neuroimaging computing cluster with 9 compute nodes. There are 8 PowerEdge R640 Servers each with 2 Intel Xeon Gold 6240R 2.4G processors that have 24 cores, 384GB of RAM, and and 8GB RAM per core along with 2TB of SSD local
+
+storage for scratch space, 10Gig Dual Ethernet ports, and 1Gig Quad Ethernet ports. In addition there is 1 Dell PowerEdge 640 high memory node with 2 Intel Xeon Gold 6240R 2.4G processors that have 24 cores each with 768GB of RAM and 16GB RAM per core, 2TB of SSD local storage for scratch space, 10Gig Dual Ethernet ports, and 1Gig Quad Ethernet port, All nine nodes are housed in the Perlman School of Medicine’s commercial-grade server room with redundant power supplies; UPS power backup systems; fire suppression system; and 24-hour restricted access and security. The BSC cluster is connected to the PMAC local “cloud” storage array that provides economical storage with backup and archiving capabilities
+
 ## Access
 
 Please see the article on [accessing the PMACS cluster](/docs/clusterEnvironment/access.md) about how to access the BSC PMACS cluster.
